@@ -1,4 +1,4 @@
-# NTUA ECE SaaS 2023 Project (Team 8)
+# MyCharts - NTUA ECE SaaS 2023 Project (Team 8)
 
 A SaaS app that runs in Docker Containers with an architecture based on microservices, that allows users to create and store charts.
 
